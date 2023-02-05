@@ -19,7 +19,7 @@ function Navbar() {
             <a href="https://geek-of-javascript.blogspot.com/" target='_blank'>Blog</a>
           </li>
           <li className="mx-5 text-center text-pink-600">
-            <a href="#contact">Hire Me</a>
+            <a href="mailto:imsnag.1@gmail.com" >Hire Me</a>
           </li>
         </ul>
       </nav>

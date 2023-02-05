@@ -5,6 +5,8 @@ import HeroSec from "./components/HeroSec";
 import About from "./components/About";
 import Education from "./components/Education";
 import Projects from "./components/Projects";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,14 +19,15 @@ function App() {
           <HeroSec />
         </section>
         <section id="about">
-        <About />
+          <About />
         </section>
         <section id="education">
-        <Education />
+          <Education />
         </section>
         <section id="projects">
-        <Projects />
+          <Projects />
         </section>
+        <Footer />
       </div>
     </>
   );
